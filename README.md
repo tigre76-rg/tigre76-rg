@@ -1,4 +1,4 @@
-     # Hi my name is Fernando👋
+# Hi my name is Fernando👋
  
 Soy estudiante de informatica 
 
@@ -6,7 +6,13 @@ Estoy aprendiendo a ser un buen programador
 
 Trabajo en equipo 
 
-Me puedes contactar 
+Me puedes contactar : @__.fernxndo._
+
+Me saben dsecir Fer o Tigre
+
+
+
+
 
 
 <!--
