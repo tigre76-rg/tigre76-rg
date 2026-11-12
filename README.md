@@ -8,7 +8,7 @@ Trabajo en equipo
 
 Me puedes contactar : @__.fernxndo._
 
-Me saben dsecir Fer o Tigre
+Me saben decir Fer o Tigre
 
 
 
